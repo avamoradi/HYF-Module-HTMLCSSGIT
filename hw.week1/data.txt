@@ -1,0 +1,6 @@
+$mkdir .hidefolder
+$ touch .myfile.txt
+$ ls -a or ls -al
+$ mkdir -p these/folders/are/just/for/fun
+$ echo first message >> message.txt
+$ echo second message >> message.txt 

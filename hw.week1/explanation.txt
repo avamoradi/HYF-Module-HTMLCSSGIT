@@ -1,0 +1,13 @@
+$ touch message.txt
+$ touch data.txt 
+
+cat > data.txt :
+$ mkdir .hidefolder
+$ touch .myfile.txt 
+$ ls -a or ls -al
+$ mkdir -p these/folder/is/just/for/fun
+$ echo fist message >> message.txt
+$echo second message >> message.txt
+ctrl + d
+
+

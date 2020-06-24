@@ -1,0 +1,127 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  color:#27363B;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+#container {
+  margin: 0 auto;
+}
+
+header {
+  width: 100%;
+  box-sizing: border-box;
+  height:120px;
+}
+
+#logo {
+  float: left;
+  padding:20px;
+}
+nav {
+  float: right;
+  }
+
+nav ul {
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+nav li {
+  float: left;
+  padding: 20px 20px 0 0;
+}
+
+nav a {
+  text-decoration: none;
+  float: left;
+  padding: 10px 20px;
+  color:#27363B;
+  font-size:20px;
+  background-color: #FDCEAA;
+  border-radius: 50px 15px;
+}
+
+ a:hover {
+  font-weight:bold;
+  text-shadow:1px 1px 10px black;
+}
+
+.grid-container {
+  display: grid;
+  grid-gap:20px ; 
+  padding:10px;
+  }
+
+#image {
+  
+  grid-row: 1/3;
+}
+
+#about{
+  background-color:#99B998;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+  grid-column: 2/2;
+}
+
+#story {
+  background-color: #F4837D;
+  grid-row: 2/2;
+  }
+
+ #story h2{
+   padding: 10px;;
+ }
+
+ #story ul {
+  list-style-type: none;
+  padding: 10px;
+ }
+
+ #story ul li {
+   padding-top: 10px;
+ }
+
+.flex-container{
+  display: flex;
+  padding:10px;
+  justify-content: space-evenly;
+
+}
+
+.description{
+  padding: 20px;;
+}
+
+.description ul {
+  padding : 10px 20px;
+}
+
+.top {
+  padding:5px 10px;
+  font-size: 1.1em;
+  font-weight: 590;
+}
+
+.top p {
+  margin-top:5px;
+}
+#study {
+  border: 3px solid #EB4960;
+  margin:10px;
+}
+
+ #greenMile, #emranian {
+  border:2px solid #EB4960;
+  width: 45%;
+  }
+
+  
+
+
