@@ -1,6 +1,0 @@
-git init "creates a new repo"
-git add [file-name] "adds a certain file to the staging area"
-git add -a "adds all files in the directory to the staging area"
-git commit -m "commits changes to the repo and adds a message describing the changes"
-git status "lists all files and shows their current status (unstaged , modefied)"
-git log "lists all the changes done to the files with time stamps and information about who made them"
