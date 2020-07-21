@@ -1,0 +1,19 @@
+hello im on assignment week 2
+im adding this new line to my file for new add, commit commands. 
+
+description: 
+$ git clone https://github.com/ArcoMul/hyf-28-w2.git
+
+$ git touch ava-commands.txt
+
+$ nano ava-commands.txt
+
+$ git add ava-commands.txt
+
+$ commit -m "message"
+
+$ git status
+
+$ git log
+
+i wanted to see how i can be in front of online file
